@@ -1,8 +1,7 @@
 /*
 Description: This program asks for two numbers and does one math operation.
 Project Name: Math Tutor Group Project
-Programmers: Yadiel Rodriguez De La Cruz, Peterson Valentin,
-             Balqis A. Said, and Stephen Patrick Flynn
+Programmers: Four-person student project team
 Date: October 4, 2026
 */
 
@@ -20,9 +19,7 @@ int main()
          << "                  MATH TUTOR\n"
          << " Description: Performs five math operations\n"
          << " Project Name: Math Tutor Group Project\n"
-         << " Programmers: Yadiel Rodriguez De La Cruz,\n"
-         << " Peterson Valentin, Balqis A. Said, and\n"
-         << " Stephen Patrick Flynn\n"
+         << " Programmers: Four-person student team\n"
          << " Date: October 4, 2026\n"
          << "==================================================\n\n"
          << "+ Addition\n"
