@@ -11,6 +11,19 @@ A C++ console program created as a four-person CSC-120 group project. It perform
 - Whole-number validation for remainder calculations
 - Clear console menu and result output
 
+## Example output
+
+Sample calculation (banner omitted):
+
+```text
+Enter operator: +
+Enter first number: 8
+Enter second number: 5
+Result: 13
+```
+
+The program also handles invalid operators and division by zero.
+
 ## Concepts Practiced
 
 - Conditional statements
